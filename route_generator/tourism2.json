@@ -1,0 +1,832 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCFAEAACUrA44zT5YUmbaWZUP4KqyPTU35TziilwEAQXHpF1koKGMWzYOjxoQamgWdEWwyWDsuwtCiImVKcLA-1SKJRepvtd_9iZLD5mPwXZ0_5Dx4NvroKhrL_2byC5oCE5lG5Hibw62RK60GHwX-9i4qpJmDFjBpeW9eKBaxMPks2F8H-W1YYiIZqo4CiusG_FR6y8iW9FPwA7A3dYqLhcDPd0RKEDNP06ZH0qmbz2CYTFzkump6W0WLINtDjNIkCHaMw_D_rAthZzRtWn0BSxGE1fqrsbAr5vgwhvJTUXdNO3XzHmsRg7HZU1OVssDsxngyEM75NQGbm6DVHD9hHsUaqzn0F2dfvRgjK1rYgtARj4jx2mq43YCSKON5jD1QejkZvxIQfH3npQaveDDR1OIU6tE8FBoUpVFBZs7jFr1_mA242OfDq8BhWG0",
+   "results" : [
+      {
+         "formatted_address" : "Victoriei 313, Valea Lungă, Alba, Romania 517815, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.12564099999999,
+               "lng" : 24.041184
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.12699082989272,
+                  "lng" : 24.04253382989273
+               },
+               "southwest" : {
+                  "lat" : 46.12429117010728,
+                  "lng" : 24.03983417010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9968a217ebced00bc2b995a1127b0e9eb383808a",
+         "name" : "Valea Lungă, Alba, România",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 575,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103409871242647111113/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAM8hHHHxI4hcjGd0pzrrCZPOwVFNXwCofPYZU0rhbum31AX9k-g_Z6ZtiPQdhalaDzSRWU4Xmr6jYaFljX7cTvYyyVhvBHA6VOhhOL9jfZXhVYn84tzRgz8DdQVBPZIGVEhCgsw2liMMC99nw12WiQVFLGhQ2hpzoqVER8Gvgv6rtOjmE4aV-kw",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJCZGhbQYKTEcRzU2oY-sElI4",
+         "plus_code" : {
+            "compound_code" : "42GR+7F Valea Lungă, România",
+            "global_code" : "8GR642GR+7F"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJCZGhbQYKTEcRzU2oY-sElI4",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "535100, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.1494353,
+               "lng" : 25.8506752
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.15078512989272,
+                  "lng" : 25.85202502989272
+               },
+               "southwest" : {
+                  "lat" : 46.14808547010728,
+                  "lng" : 25.84932537010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e59d9ac824b8121bc869e08764dcddfc57025526",
+         "name" : "Piatra Șoimilor",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1441,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105786201411110964560/photos\"\u003eLucian Ionescu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARWKcsvP6yGvaBkyft7WC7GEswcazcS00Pd-olYHHE7CkrQkm8ftdcEuOuK0vLfLp4TSpROu9jTB62tv6M_wqpqyNbs87qx0oQKOeWU_m-vwoPuWztRwmbtdsXnoKzr_hEhCEpPpv_61o9OyWhZ-JYxQTGhTj2tUBsuszuL8dgkHvOZsR0Lp2SQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ25p_ZY_OtEARrr-rC4rxJew",
+         "plus_code" : {
+            "compound_code" : "4VX2+Q7 Băile Tușnad, România",
+            "global_code" : "8GR74VX2+Q7"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ25p_ZY_OtEARrr-rC4rxJew",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Strada Sibiu, București 061537, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4235019,
+               "lng" : 26.0468576
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.42486902989272,
+                  "lng" : 26.04834692989272
+               },
+               "southwest" : {
+                  "lat" : 44.42216937010728,
+                  "lng" : 26.04564727010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7dc12dd52de793721f20d5725ae845025b4a3982",
+         "name" : "Romanian Cultural Travel & Tours",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105026123781458628349/photos\"\u003eDaeveren Plus\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASsfNnczOaTO4L2qRRV9N-G_fNU-2VVeZln3yTu8cR3CR6DCwxpT35qpHpdZDT_ylRZka1GhABNjC2HbXIKKjrHIbqisyWiQW4dBErYh74RIn5OZudyArQzSI1XV0k1ZBEhAeRlGPOJ2JwvXBkE5unwXbGhREyS3k6lm1l9F0a8-AtzjdPN1HAg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJj9KGztIBskARQ-QPngJgX8c",
+         "plus_code" : {
+            "compound_code" : "C2FW+CP București, România",
+            "global_code" : "8GP8C2FW+CP"
+         },
+         "rating" : 0,
+         "reference" : "ChIJj9KGztIBskARQ-QPngJgX8c",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Pasajul Macca, București 030167, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.433099,
+               "lng" : 26.0987269
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43446577989272,
+                  "lng" : 26.10009227989272
+               },
+               "southwest" : {
+                  "lat" : 44.43176612010728,
+                  "lng" : 26.09739262010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "764f604f68c2f43ea87dc1534e4f3046ab9d434b",
+         "name" : "Pasajul Macca - Vilacrosse",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2848,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100239899661612421930/photos\"\u003eCiprian Gherghiaș\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAycNoPx5rx_q9L63yf1kn_LtnBnEwv8FCRXXTvWelYD7iB7CqBphQD_JiYnQJ2Rl5yrn3qHNFZhh9AxtHVbtbnXIYE7AHRrK1rYZiCwz5SJFupiePTJz0hER4b3VDsduAEhDreDvg5C0brDInWqoA05nGGhQZn4g89H6spDhuASKYMm0XEGcTMg",
+               "width" : 4021
+            }
+         ],
+         "place_id" : "ChIJRb-UjED_sUARSwcOL0dioRI",
+         "plus_code" : {
+            "compound_code" : "C3MX+6F București, România",
+            "global_code" : "8GP8C3MX+6F"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJRb-UjED_sUARSwcOL0dioRI",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "507134, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.44024539999999,
+               "lng" : 25.4154003
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.44159522989272,
+                  "lng" : 25.41675012989272
+               },
+               "southwest" : {
+                  "lat" : 45.43889557010728,
+                  "lng" : 25.41405047010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0efaf1d4dd7394005c68609476a25fc8b6600332",
+         "name" : "Cascada Moara Dracului",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 2368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115697611278770307543/photos\"\u003eSperanta Chiper\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASMmugzdRrULiq1NHLaB4i6UoGq6v0FKWcECdcRw0xYhGO5vhuw-lvqNFXbQ_hAH0V6GG0dtLI9vVe3rJhJKB-9LNYYGfV9VUZgICdG3CIbOfb4mbU-OrepENqLZAyEbqEhBvthPeW7Xrdj-aDzxeXe-DGhRnjBU9jZGCDA6kzdm0YSmfAZu2Bg",
+               "width" : 3568
+            }
+         ],
+         "place_id" : "ChIJhdCF9M0-s0ARap0STJvRQDE",
+         "plus_code" : {
+            "compound_code" : "CCR8+35 Moieciu de Sus, România",
+            "global_code" : "8GQ7CCR8+35"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJhdCF9M0-s0ARap0STJvRQDE",
+         "types" : [ "natural_feature", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Sinaia, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.36995109999999,
+               "lng" : 25.5216479
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.37130092989272,
+                  "lng" : 25.52299772989272
+               },
+               "southwest" : {
+                  "lat" : 45.36860127010728,
+                  "lng" : 25.52029807010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6891cc0cc4b5a56fe37810ee01c333018f6b57d4",
+         "name" : "Poiana Stânei",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117187872483777849757/photos\"\u003eIlie Huiu /Jack\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3LIx3Y2QnisZQfM7Om93ZpUUS6tQBXP-nGQGzVcDgUwHC0vGEqYnO5s2Zpf_oZv6bzIvcULbRKarY2NqZHZt6nLqLi8T9EcvGDF1P7Fakn5a00iKL22X7Lf_Sokii4lFEhBMiRSFnQ8h9sX7pR8QAuiFGhTYq8OWxuSuq7jAz3G5XKtS2bedUw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ6RJSnmYWs0ARksMRJDO4vDI",
+         "plus_code" : {
+            "compound_code" : "9G9C+XM Sinaia, România",
+            "global_code" : "8GQ79G9C+XM"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ6RJSnmYWs0ARksMRJDO4vDI",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Brașov, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6395991,
+               "lng" : 25.5927305
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.64094892989272,
+                  "lng" : 25.59408032989273
+               },
+               "southwest" : {
+                  "lat" : 45.63824927010727,
+                  "lng" : 25.59138067010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fdf5899d1dbf040c4507a47ce4808476ffea5d9e",
+         "name" : "Bastionul Funarilor",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104300399314081044035/photos\"\u003eAndrei\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArbbh9im4hWC6KouhR6EUK9O2vXu6z0V_zeeodSfRQovukvDsbLLW5J-OjZJumRdBwn9mygytp8NcDuhIE0G4rC78-qsgg52xCnNvkQj-oJGoLHTlK-y9_D_qPzygeoooEhDDg-w8y2J534TTc1xWcRD1GhTRZvEJ1vFZoYBpfgGq6xqxP-hK7g",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ3wa6TWNbs0AR4EC8gmssicQ",
+         "plus_code" : {
+            "compound_code" : "JHQV+R3 Brașov, România",
+            "global_code" : "8GQ7JHQV+R3"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ3wa6TWNbs0AR4EC8gmssicQ",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Aleea Durgăului 7, Turda 401106, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.5877459,
+               "lng" : 23.7872654
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.58914227989272,
+                  "lng" : 23.78873162989272
+               },
+               "southwest" : {
+                  "lat" : 46.58644262010728,
+                  "lng" : 23.78603197010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "291de9772fe7d93c73ee80b302442a5febdc0f9d",
+         "name" : "Salina Turda",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110474597633957518182/photos\"\u003eBalaci Paul\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzoD_FixgKvDEKbTedqlWRw19vw3lQEXdP3c8_kjJxj54pl1CC2rvQM_lKMS8CCGNzSr8shwRJKwt18jU-8dtbn4G8uYJ2pEk5TmWuPJiRDVw2bx3JYdMN5sBNtMHdMQbEhDcyu3bfGHHjrxT2vgQGQExGhSJCOagI_N5yDppw3ztFXYd0q2oPw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJZca_hbNoSUcRDMHtZTdXftQ",
+         "plus_code" : {
+            "compound_code" : "HQQP+3W Turda, România",
+            "global_code" : "8GR5HQQP+3W"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJZca_hbNoSUcRDMHtZTdXftQ",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5752585,
+               "lng" : 25.4890215
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.57660832989272,
+                  "lng" : 25.49037132989272
+               },
+               "southwest" : {
+                  "lat" : 45.57390867010728,
+                  "lng" : 25.48767167010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "337e37582ec57338991c04afc095e6db7b22dea6",
+         "name" : "Peștera Râșnoavei",
+         "photos" : [
+            {
+               "height" : 3240,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109424081538608369490/photos\"\u003eSilviu Juganaru\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqqqjzHHfvRYVjdM9Np1ON6y78N5pCfRyK0t-Imxe3SzhXvalKE1H85CKQbq2NUEKVgE_8rF16aeTV5kojBL8lSqEqY3LOv8p28og7Mh0DPAzB4HyvKfZ10JpX9CG6qKiEhCaKl-VWQ04sN4t9TMkE5S8GhTeEXCnOgoTjP1Hmm8cKrLBYKDJyA",
+               "width" : 4320
+            }
+         ],
+         "place_id" : "ChIJe0H4bEhEs0AR4mOvo9geSY0",
+         "plus_code" : {
+            "compound_code" : "HFGQ+4J Râșnov, România",
+            "global_code" : "8GQ7HFGQ+4J"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJe0H4bEhEs0AR4mOvo9geSY0",
+         "types" : [ "natural_feature", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Moroeni, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.3143295,
+               "lng" : 25.4262739
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.31567932989272,
+                  "lng" : 25.42762372989272
+               },
+               "southwest" : {
+                  "lat" : 45.31297967010728,
+                  "lng" : 25.42492407010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0dadd86cf00aa10936b2f45f903fe2be823c10df",
+         "name" : "Cascada 7 Izvoare",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106697484083515517542/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAO6z1CsdfmNIZfO6WobQAvsKrEp8ecVAYJ6suFLzED_NYEcolHDcfk5vXMC9W0bjKGUbPOyN8A2t0hEbeeDqU7_PTvlUH2f_d-h_E_nJf1NEJFsVDlDkmX3P_eXFhd-fIEhAnW9WjXwNs7sCsTlpaWSSoGhSU6kxQbvk-6tNLo_AhCSlmnfxG6w",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ4-7-7g4Ys0ARU6MGlmiV6CU",
+         "plus_code" : {
+            "compound_code" : "8C7G+PG Glod, România",
+            "global_code" : "8GQ78C7G+PG"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ4-7-7g4Ys0ARU6MGlmiV6CU",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Piața Mică 1, Sibiu 550182, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.7976183,
+               "lng" : 24.1521486
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.79901047989272,
+                  "lng" : 24.15343387989272
+               },
+               "southwest" : {
+                  "lat" : 45.79631082010728,
+                  "lng" : 24.15073422010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "acc1d7b796a995597e2a6b2bd047dc072bc352c5",
+         "name" : "Turnul Sfatului",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2716,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112254947325610758686/photos\"\u003eMichael Evans\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAv7jsXOd_8JmV5JiSwJlx_1A2bGH2uHDOV7X7E2Up6Lb52sItQkm9Pfvz9BUWXja89VgosVuPjHetwwRxoiuEVqQbbsKMzsNm38WZCiQTTKaJO48EUUdZbcpOR44MCF96EhBb-DN0MV1JYSbhpjEwI7hWGhSUkX2QkkuBHnAcopksk05iIO-Zkg",
+               "width" : 3799
+            }
+         ],
+         "place_id" : "ChIJc1xCwpZnTEcRBJxuuIQkgco",
+         "plus_code" : {
+            "compound_code" : "Q5X2+2V Sibiu, România",
+            "global_code" : "8GQ6Q5X2+2V"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJc1xCwpZnTEcRBJxuuIQkgco",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Strada După Ziduri, Brașov, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.6425518,
+               "lng" : 25.5873446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.64391432989272,
+                  "lng" : 25.58866442989272
+               },
+               "southwest" : {
+                  "lat" : 45.64121467010727,
+                  "lng" : 25.58596477010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "64a119ed24f416b8b0ad09324af6301cfeba34ce",
+         "name" : "Bastionul Graft",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108500520149938512598/photos\"\u003eRobert Ștefan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1TXmNzcRQ58GywpJfLisrbJfqiM83tcSaQMq7OoAhK6H65KQNKosd1JT3e6fFpRor7TvdCBcKZ_utZBlok4nlxSTAP_WyH1L_Fo99xQ45aGuWIRF9mtD7mLXEvtHMgFpEhA2nNOM_eLOZp9FqrAogdIqGhQEwLlvOwEWLGkwymkIlx5rcJBxmQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJTzTOmXpbs0ARyFFTQgBYazM",
+         "plus_code" : {
+            "compound_code" : "JHVP+2W Brașov, România",
+            "global_code" : "8GQ7JHVP+2W"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJTzTOmXpbs0ARyFFTQgBYazM",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Sovata, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.6042485,
+               "lng" : 25.0758773
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.60559832989273,
+                  "lng" : 25.07722712989272
+               },
+               "southwest" : {
+                  "lat" : 46.60289867010729,
+                  "lng" : 25.07452747010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bdc1d1165537e88bcd6d65a8b245c2e533848451",
+         "name" : "Turnul Belvedere",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100582196604267406425/photos\"\u003eCiprian Zaharia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2L6h2ecPs3nxGlWtM7ZquAl6J55y7IaMW01ydffCC0k4U6fnd-sdvXikQQmXEwoeu9ImlG8lRGfKFB7zoPKWnL5HuVnWwzrZ6mzSNPuxZF0VCRYpI-amdGa_cLdh0AgiEhCZj-W6wrq6-3ZWx9n5DEpvGhSLl92JsM_cC-CalPm9ZOi8CzfN7A",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJSSknXJRVSkcRIJAoFs7qS3A",
+         "plus_code" : {
+            "compound_code" : "J33G+M9 Sovata, România",
+            "global_code" : "8GR7J33G+M9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJSSknXJRVSkcRIJAoFs7qS3A",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Strada Reconstrucției 35, Sibiu, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.799658,
+               "lng" : 24.1386433
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.80108957989273,
+                  "lng" : 24.13992972989272
+               },
+               "southwest" : {
+                  "lat" : 45.79838992010728,
+                  "lng" : 24.13723007010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9118f66897508b5ea976e09f0cc6de92e915c8bd",
+         "name" : "Vechea Școală Românească",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101217606881157788978/photos\"\u003eRadu Mihai Neagu-Bistrian\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2R1sME990y1eptUi267mf-tfDtjepEssdzufz-f_ME2R0eyCckKOARpbFNmI74lE8HumO9EJZ8RqSM15rSx_aZtGNgcaU5qUvCkDyCgdf7JY_sZiuKmFbxd8BcSqqpE3EhApWyyFsArhTELOCQBmUQ-4GhRYzDuI34bFQYCNuGFJn4iGOsz4nQ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJk8pTiOxnTEcRxg18q-c_ExY",
+         "plus_code" : {
+            "compound_code" : "Q4XQ+VF Sibiu, România",
+            "global_code" : "8GQ6Q4XQ+VF"
+         },
+         "rating" : 4,
+         "reference" : "ChIJk8pTiOxnTEcRxg18q-c_ExY",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Arefu, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5863738,
+               "lng" : 24.6308215
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.58772362989272,
+                  "lng" : 24.63217132989272
+               },
+               "southwest" : {
+                  "lat" : 45.58502397010728,
+                  "lng" : 24.62947167010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e936c07887476a8dadbc6dc43cef12405d0fe9e1",
+         "name" : "Cascada Capra",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113649707335684528061/photos\"\u003eDinh NGUYEN CONG\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_oH9G5VeCC-8ICPVnWdId9T_3kEJYvuBDlS1VpJCVPZqRK7tDXyap31hTaJbXFf0p0CQs7mPAvof_dhgljL76yqMy4Zs6ttIsYV_RKO1x93mhDZWXgiMJT2Mjy8lBzs1EhCUaBJpCrRuB6tcsVqRUW68GhSttWc1mlQtLix5h8URkXm4Wx-HeA",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJ0WNoVozpTEcRoebdUkc65Yw",
+         "plus_code" : {
+            "global_code" : "8GQ6HJPJ+G8"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ0WNoVozpTEcRoebdUkc65Yw",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Sfântu Gheorghe, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.86294840000001,
+               "lng" : 25.807377
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.86429822989273,
+                  "lng" : 25.80872682989272
+               },
+               "southwest" : {
+                  "lat" : 45.86159857010728,
+                  "lng" : 25.80602717010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "407446e0bcb44dce0cd7a7bd4dbe30672649238e",
+         "name" : "Statuia Ostașului Român",
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112956224697345882817/photos\"\u003eNarcis Marian\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAT4ZvXbeahF_vaxoQe87Al2XKgsyWk3xWGc8a-h2FKOtg-Fw6H9dEdPQIwiaKz7Z_Odex4uyiSAKcz5ZAbWz7qLmzuyrFlytO9rCppFVvJXxeks5WDH6wcY88B0tUb91MEhAhGb2FCIy_rrGteFkl5oAdGhQ0k7nX7bOU25DztRKDpTCRUuzYxA",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJkS2yjaGktEARyiJneAYMA10",
+         "plus_code" : {
+            "compound_code" : "VR74+5X Sfântu Gheorghe, România",
+            "global_code" : "8GQ7VR74+5X"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJkS2yjaGktEARyiJneAYMA10",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.9913406,
+               "lng" : 25.471909
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.99269042989272,
+                  "lng" : 25.47325882989272
+               },
+               "southwest" : {
+                  "lat" : 45.98999077010728,
+                  "lng" : 25.47055917010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "145db65c5ae6970de9e1dba8ebfccdef9f7b5cb6",
+         "name" : "Peștera Bârlogul Ursului",
+         "place_id" : "ChIJ78uPybpNS0cRz-LFXx2GOxg",
+         "plus_code" : {
+            "compound_code" : "XFRC+GQ Racoș, România",
+            "global_code" : "8GQ7XFRC+GQ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ78uPybpNS0cRz-LFXx2GOxg",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Transfăgărășan, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5558474,
+               "lng" : 24.5990632
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.55692447989272,
+                  "lng" : 24.60142165
+               },
+               "southwest" : {
+                  "lat" : 45.55422482010728,
+                  "lng" : 24.59827705
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ce8a503c23b7310abaf7e8d6724d9dc18e331fdb",
+         "name" : "Peștera Piscul Negru",
+         "photos" : [
+            {
+               "height" : 2608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101634869314768480293/photos\"\u003eSeverin Vlad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQasShLCu2GJjaB6tLJL_Aunx00LDjUl9g9-yuaTmz5suOKWuI6zBrspucdMWG3ffI0RISGjQWNxbxJuJATIBbe0-YkD-a2u8MpjGdkXKiX62MoSwoSrguO5FXCzays9TEhBvuFBNgQuIGFrAoS18_txsGhQ7lrZXi5laq3ryxDlFN_qslSxa6g",
+               "width" : 4632
+            }
+         ],
+         "place_id" : "ChIJ19Q-9kboTEcR8kVEbp9cfB4",
+         "plus_code" : {
+            "global_code" : "8GQ6HH4X+8J"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ19Q-9kboTEcR8kVEbp9cfB4",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "DN12C, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.81205079999999,
+               "lng" : 25.8271016
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.81357802989272,
+                  "lng" : 25.82798557989272
+               },
+               "southwest" : {
+                  "lat" : 46.81087837010728,
+                  "lng" : 25.82528592010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "98b95c77a430f64947a9225dcd9b408e49aac18d",
+         "name" : "Cheile Bicazului",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111630700212046022240/photos\"\u003eiuliana turcescu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvN_4HZWT6c4vmgN-HYBL3p8TmkHQHd5LASZ_bVU3MNbJyGgA9oUwNLGSUd35PLHLyhooQq_7Mr1pGMDWt40W1Eioju94xDMtTuGaijDlg-Ud0Ill7zrBC2ZJqavt-AHpEhBPy7TqucCLJVPbtzVF65aXGhTuIwvq9CFfyV6NKZGaMHhaPL0k5Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJb3SzpYe9SkcRe1zfDArcPKw",
+         "plus_code" : {
+            "compound_code" : "RR6G+RR Lacu Roșu, România",
+            "global_code" : "8GR7RR6G+RR"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJb3SzpYe9SkcRe1zfDArcPKw",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Cisnădioara, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.69942,
+               "lng" : 24.0965417
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.70076982989271,
+                  "lng" : 24.09789152989272
+               },
+               "southwest" : {
+                  "lat" : 45.69807017010727,
+                  "lng" : 24.09519187010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "777b0b7f53903543380925f739cf9fb88cbcb9ae",
+         "name" : "Piatra Broaștei",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114966361835480195931/photos\"\u003eAndrei Balan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1egWAhoi28aKXflZ8OVkTu1Mosz9ICMtf_VQMIM5dcOfW-QMOE-NiRbAyfkYp7Y8s_MwPu29Q53oMIsWtHWgI_hiOSkSK_TVYJBSy5fzI0RYAdP4i6RvgnKdGizjiGtGEhD5K06lB4lqs0D2gwhP8bNvGhSb6phGu67B35mLIYe54qVampnQaQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJi0J5J5pbTEcRB31Qv17A8bQ",
+         "plus_code" : {
+            "compound_code" : "M3XW+QJ Cisnădioara, România",
+            "global_code" : "8GQ6M3XW+QJ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJi0J5J5pbTEcRB31Qv17A8bQ",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

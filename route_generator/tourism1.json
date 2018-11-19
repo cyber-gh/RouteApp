@@ -1,0 +1,307 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Calea Matei Basarab nr. 1 mun. Oradea jud. Bihor, Calea Matei Basarab 1, Oradea, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.050961,
+               "lng" : 21.918973
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.05233792989273,
+                  "lng" : 21.92069807989272
+               },
+               "southwest" : {
+                  "lat" : 47.04963827010728,
+                  "lng" : 21.91799842010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d39d380eae4747258b3338f0066fee6b69c94268",
+         "name" : "Grădina Zoologică Oradea",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118037441783388940322/photos\"\u003eGrădina Zoologică Oradea\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAW6_Tw7OYS2HJBhG-w2fqnF3o6h_BOO3lhyhPhQ9qdVEeQWwN7iOABU_j8ppwBoNTGXtxHxxlGRyAAIiswmxStG9JNrS_yzG4XeGPJWOdSp0xrkfmYxI0HE6mfN1kZvE7EhAttms1NdHfzJDP4g5xGuKrGhSxbh_eXS90ZLAPxv9S0tFzuAts1A",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJyUTlDsFHRkcRYDMcdO1-o1Q",
+         "plus_code" : {
+            "compound_code" : "3W29+9H Oradea, România",
+            "global_code" : "8GV33W29+9H"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJyUTlDsFHRkcRYDMcdO1-o1Q",
+         "types" : [ "zoo", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Piața Ionel I. C. Brătianu, Timișoara, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.7579631,
+               "lng" : 21.2327756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.75925457989273,
+                  "lng" : 21.23392402989272
+               },
+               "southwest" : {
+                  "lat" : 45.75655492010728,
+                  "lng" : 21.23122437010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7965a798ab7477c968886035236a0781606288fb",
+         "name" : "Punctele Cardinale",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3240,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118126782508562603389/photos\"\u003eBéla Tóth\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwud5zks1BlfeHv0GDrDn1opqo-SeHRmXx4iTflUALXuQ0uHrbIRmEDQUXoluc-Sd_DkDdYNXk1q-8Wr4Q5FrlJMCLB9d-dosA530AyASkMxZ1lJRwwJa-xJJzCInD2wDEhCeIiopmKoxiFbS_ZSZtWalGhQjoNtJcu8lXoEGZIaWMlhH6bWPdw",
+               "width" : 4320
+            }
+         ],
+         "place_id" : "ChIJKWjVPX9nRUcRtzcZqn_lZ8g",
+         "plus_code" : {
+            "compound_code" : "Q65M+54 Timișoara, România",
+            "global_code" : "8GQ3Q65M+54"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJKWjVPX9nRUcRtzcZqn_lZ8g",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Calea Unirii 15, Craiova 200419, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.3192083,
+               "lng" : 23.7952552
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.32055812989273,
+                  "lng" : 23.79660502989272
+               },
+               "southwest" : {
+                  "lat" : 44.31785847010729,
+                  "lng" : 23.79390537010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "921bbce6e9659ec37649bc0ddadb099377fa765f",
+         "name" : "Palatul Jean Mihail",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112245329956291868200/photos\"\u003eLeon Hignett\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAC153SAd6w2aLuKg34br_IKoIMMwup7KwlguVP4hSMIl87_Tu978TpMPPmSphkKSW8n6rihJ9bPZARuI1ha6q1BKK-eaPHNL8LWcChKRifRo1YCFMv6y20gSLq01vTTSlEhCAlpq-ofD45yZLxwnTLoJlGhSn2K6hR5U0vHWwVZZyPI7Vyeab9w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJN_RVP57XUkcRbNq4zTR3bJ4",
+         "plus_code" : {
+            "compound_code" : "8Q9W+M4 Craiova, România",
+            "global_code" : "8GP58Q9W+M4"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJN_RVP57XUkcRbNq4zTR3bJ4",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Strada Franceză 25, București 030167, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4301472,
+               "lng" : 26.1009639
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.43137352989272,
+                  "lng" : 26.10230102989272
+               },
+               "southwest" : {
+                  "lat" : 44.42867387010728,
+                  "lng" : 26.09960137010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5541c383a2cd2c5be60175a4e4e1a5ddd6922873",
+         "name" : "Palatul Voievodal Curtea Veche",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113261792693791070898/photos\"\u003eAdina Cretu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArfZ07WpAM5ozkJGRJAoW_SgBWpk5463ixQdFxpnxsJn6eZhsUYo3g66adJnhubYN1PBBgixVPtIsvmSe1NE8B7JufF75F3ZY4dMq-gpRPGmEcQiTmQDua1hEDO6LGMwDEhDJ0oZd8Zdi6sHo0NV4ESS6GhRl95dcpCwI087zvMzYu-rNOjmLLw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ7a4F0z__sUARZtvyHI6QP9U",
+         "plus_code" : {
+            "compound_code" : "C4J2+39 București, România",
+            "global_code" : "8GP8C4J2+39"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ7a4F0z__sUARZtvyHI6QP9U",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "DJ687F, Govăjdia 337241, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.7407458,
+               "lng" : 22.7911303
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.74186837989273,
+                  "lng" : 22.79259267989272
+               },
+               "southwest" : {
+                  "lat" : 45.73916872010729,
+                  "lng" : 22.78989302010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "eb482fd97c4715c5c3ea6aef037e9b6427bd0bbf",
+         "name" : "Furnalul din Govăjdia",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103162481051961552757/photos\"\u003eNicu CHEDEA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABupjGNqaOS9gDn_gSt5g3g2Ikr7srrhwfSkWT4169wYqrY5XasPhyH9Sfw1HZkezMR786adNs_XcWYK3dEFkz0-3xw8ZMxcbwv16zdrGJZ3t2LzK5srXzzt4QTUagZLcEhCs4XQ4ITp4HwoHGzpCKdjYGhSLwamZHkWx0tjg3axIgJUj4xuGOA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJX9w47JZfTkcRsgkhk_eFdm4",
+         "plus_code" : {
+            "compound_code" : "PQRR+7F Govăjdia, România",
+            "global_code" : "8GQ4PQRR+7F"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJX9w47JZfTkcRsgkhk_eFdm4",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Piața Revoluției, București 030167, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4388942,
+               "lng" : 26.097453
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44033622989271,
+                  "lng" : 26.09880097989272
+               },
+               "southwest" : {
+                  "lat" : 44.43763657010727,
+                  "lng" : 26.09610132010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "7e874c81fcfe1d7877aa63e34d268e70b9cfaad5",
+         "name" : "Memorialul Renașterii",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105905477691098660819/photos\"\u003eLiam Kenny\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZ2lbncjrUvNAB7T39rlQaQbXbkH_YausuW8iFqOGen9W9oVWZmcooEdt3KIUI8EX04mJJQqRO84r8m_kqFPYQrB1NL-rHGQDx3axXMX3ulFo4-_raH3mSEggLkL9NS_GEhB01Kg-oM7gkbcYYLTfuyfTGhSK18_SE2Qqfn_8ujnnfzZRnmaOQA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJGQaz3EX_sUARd2FFx6Cb7NI",
+         "plus_code" : {
+            "compound_code" : "C3QW+HX București, România",
+            "global_code" : "8GP8C3QW+HX"
+         },
+         "rating" : 4,
+         "reference" : "ChIJGQaz3EX_sUARd2FFx6Cb7NI",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Calea Victoriei 49-53, București 010063, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.43936679999999,
+               "lng" : 26.095874
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44055022989272,
+                  "lng" : 26.09781727989272
+               },
+               "southwest" : {
+                  "lat" : 44.43785057010728,
+                  "lng" : 26.09511762010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "9ac18b16f3a12f4ffd5de054a1bbffbe6ee4657a",
+         "name" : "Muzeul Național de Artă al României",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100249038166273756410/photos\"\u003eFAZA 1000\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbaIcdT4mtIc8S3xNRYuMPv6YAdN0foGKzSSbJwHH5ggSJkUUpES6-uvSIOspu4jIOPzT5cpFs7NDQGAjfQeYB1mnlJpuMDFreG5r5uZZzx9QDrO82UxixLHBS73pCgNDEhDNKz03K2IHYb7H6tzf-YUvGhRXStvni-ew11Y-tQfH4drKVG3ovQ",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJb0jBokX_sUARMCM_FW_Ip94",
+         "plus_code" : {
+            "compound_code" : "C3QW+P8 București, România",
+            "global_code" : "8GP8C3QW+P8"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJb0jBokX_sUARMCM_FW_Ip94",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

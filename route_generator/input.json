@@ -1,0 +1,5870 @@
+[
+  {
+    "ID": 107782,
+    "UUID": "DB7EE0E0-4331-4F9F-8FEC-7A0B5EBFBF5A",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 45,
+    "OperatorInfo": {
+      "WebsiteURL": null,
+      "Comments": "For use when the operator of the equipment is a single business owner connected to the location and equipment is not part of a larger network",
+      "PhonePrimaryContact": null,
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": null,
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": null,
+      "ID": 45,
+      "Title": "(Business Owner at Location)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 6,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": false,
+      "IsAccessKeyRequired": false,
+      "ID": 6,
+      "Title": "Private - For Staff, Visitors or Customers"
+    },
+    "UsageCost": null,
+    "AddressInfo": {
+      "ID": 108128,
+      "Title": "Lol et Lola Hotel",
+      "AddressLine1": "Neagra street no. 9",
+      "AddressLine2": null,
+      "Town": "Cluj-Napoca",
+      "StateOrProvince": "Cluj",
+      "Postcode": "400011",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 46.76448698749,
+      "Longitude": 23.5855040704307,
+      "ContactTelephone1": null,
+      "ContactTelephone2": null,
+      "ContactEmail": null,
+      "AccessComments": null,
+      "RelatedURL": "https://www.loletlolahotel.ro/en/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": null,
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2018-08-09T19:47:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2018-08-09T12:34:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 152185,
+        "ConnectionTypeID": 34,
+        "ConnectionType": {
+          "FormalName": "IEC 60309 3-pin",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 34,
+          "Title": "IEC 60309 3-pin"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 230,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 10,
+        "CurrentType": {
+          "Description": "Alternating Current - Single Phase",
+          "ID": 10,
+          "Title": "AC (Single-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": null,
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 107018,
+    "UUID": "D81C5A88-7515-4660-BCF4-D3A1EFD9D16F",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 1,
+    "OperatorInfo": {
+      "WebsiteURL": null,
+      "Comments": null,
+      "PhonePrimaryContact": null,
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": null,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": null,
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": null,
+      "ID": 1,
+      "Title": "(Unknown Operator)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 7,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": false,
+      "IsAccessKeyRequired": false,
+      "ID": 7,
+      "Title": "Public - Notice Required"
+    },
+    "UsageCost": null,
+    "AddressInfo": {
+      "ID": 107364,
+      "Title": "Mega Image Morarilor Non-Stop",
+      "AddressLine1": "Mega Image Morarilor Non-Stop, 101, Bulevardul Basarabia, București, Sector 3, Bucharest, 031742, Romania",
+      "AddressLine2": null,
+      "Town": "București",
+      "StateOrProvince": "Sector 3",
+      "Postcode": "031742",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 44.4373793562802,
+      "Longitude": 26.1694333984103,
+      "ContactTelephone1": null,
+      "ContactTelephone2": null,
+      "ContactEmail": null,
+      "AccessComments": null,
+      "RelatedURL": null,
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": null,
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2018-07-13T09:20:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2018-07-13T07:46:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 150878,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": null,
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 95629,
+    "UUID": "A35BBD19-6E2E-4139-BDFB-4DD982E8E40E",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 45,
+    "OperatorInfo": {
+      "WebsiteURL": null,
+      "Comments": "For use when the operator of the equipment is a single business owner connected to the location and equipment is not part of a larger network",
+      "PhonePrimaryContact": null,
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": null,
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": null,
+      "ID": 45,
+      "Title": "(Business Owner at Location)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 6,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": false,
+      "IsAccessKeyRequired": false,
+      "ID": 6,
+      "Title": "Private - For Staff, Visitors or Customers"
+    },
+    "UsageCost": "0",
+    "AddressInfo": {
+      "ID": 95975,
+      "Title": "Hotel Pestera",
+      "AddressLine1": "DJ714",
+      "AddressLine2": null,
+      "Town": "Dâmbovița",
+      "StateOrProvince": "Dâmbovița",
+      "Postcode": null,
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 45.3933716762824,
+      "Longitude": 25.4424149778404,
+      "ContactTelephone1": "+40 (372) 733 321",
+      "ContactTelephone2": null,
+      "ContactEmail": "info@pestera.ro",
+      "AccessComments": null,
+      "RelatedURL": "http://www.hotelpestera.ro",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": null,
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-11-19T21:39:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-11-16T07:13:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 135463,
+        "ConnectionTypeID": 1036,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 1036,
+          "Title": "Mennekes (Type 2, Tethered Connector) "
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 20,
+        "Voltage": 380,
+        "PowerKW": null,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 13703,
+        "ChargePointID": 95629,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM95629/OCM-95629.orig.2017111607144110.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM95629/OCM-95629.thmb.2017111607144110.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 15707,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "AlexCalcan",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 2,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/2c7e3c506bd0d74d1c066de06fae2a42?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-11-16T07:15:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 91886,
+    "UUID": "05217F99-0057-4654-B67D-F7E708D1A2E3",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 45,
+    "OperatorInfo": {
+      "WebsiteURL": null,
+      "Comments": "For use when the operator of the equipment is a single business owner connected to the location and equipment is not part of a larger network",
+      "PhonePrimaryContact": null,
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": null,
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": null,
+      "ID": 45,
+      "Title": "(Business Owner at Location)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 1,
+    "UsageType": {
+      "IsPayAtLocation": null,
+      "IsMembershipRequired": null,
+      "IsAccessKeyRequired": null,
+      "ID": 1,
+      "Title": "Public"
+    },
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 92232,
+      "Title": "Electric car charger - Hotel UNIVERS T",
+      "AddressLine1": "Str. Alexandru Vaida Voevod 53-55",
+      "AddressLine2": "Hotel UNIVERS T",
+      "Town": "Cluj-Napoca",
+      "StateOrProvince": "Cluj",
+      "Postcode": "400591",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 46.7725768706658,
+      "Longitude": 23.626532085736,
+      "ContactTelephone1": "+4 0734 77 11 77",
+      "ContactTelephone2": "+4 0264 41 41 61",
+      "ContactEmail": "daniela.dunca@universt.ro",
+      "AccessComments": "In the Parking of Hotel-restaurant UNIVERS T - Free parking - Free charge",
+      "RelatedURL": "http://www.universt.ro",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": "The property offers a charging station for electric and hybrid cars of type 2 (European) with a maximum power of 22 kW and a maximum intensity of 32 A. Proprietatea oferă o statie de încărcare pentru automobile electrice și hibride de tip 2 (european) cu putere maximă de 22 kW, precum și intensitate maximă de 32 A.",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-08-19T21:28:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-08-19T09:13:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 130242,
+        "ConnectionTypeID": 1036,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 1036,
+          "Title": "Mennekes (Type 2, Tethered Connector) "
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": null,
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 90505,
+    "UUID": "21E664B4-2D4A-4456-8DB9-4B4C261E64E8",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 1,
+    "OperatorInfo": {
+      "WebsiteURL": null,
+      "Comments": null,
+      "PhonePrimaryContact": null,
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": null,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": null,
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": null,
+      "ID": 1,
+      "Title": "(Unknown Operator)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 1,
+    "UsageType": {
+      "IsPayAtLocation": null,
+      "IsMembershipRequired": null,
+      "IsAccessKeyRequired": null,
+      "ID": 1,
+      "Title": "Public"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 90851,
+      "Title": "Preh Romania",
+      "AddressLine1": "Sos. Nationala Nr. 31",
+      "AddressLine2": null,
+      "Town": "Iasi",
+      "StateOrProvince": "Iasi",
+      "Postcode": "700273",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 47.1548426137907,
+      "Longitude": 27.5795888900757,
+      "ContactTelephone1": null,
+      "ContactTelephone2": null,
+      "ContactEmail": null,
+      "AccessComments": "The charger is in front of Sandru Office Building , on Soseaua Nationala, between Podu de Piatra and Podu Ros. Free access 24/7.",
+      "RelatedURL": "http://www.preh.com",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": null,
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-07-16T16:27:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-07-14T08:00:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 128171,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": null,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": null,
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81920,
+    "UUID": "758C97D9-DBBE-4C3E-935F-6712AF3A3D9E",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 45,
+    "OperatorInfo": {
+      "WebsiteURL": null,
+      "Comments": "For use when the operator of the equipment is a single business owner connected to the location and equipment is not part of a larger network",
+      "PhonePrimaryContact": null,
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": null,
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": null,
+      "ID": 45,
+      "Title": "(Business Owner at Location)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 1,
+    "UsageType": {
+      "IsPayAtLocation": null,
+      "IsMembershipRequired": null,
+      "IsAccessKeyRequired": null,
+      "ID": 1,
+      "Title": "Public"
+    },
+    "UsageCost": "RON 10/hour",
+    "AddressInfo": {
+      "ID": 82266,
+      "Title": "Autoklass Center",
+      "AddressLine1": "Calea Torontalului",
+      "AddressLine2": "Dacia",
+      "Town": "Timișoara",
+      "StateOrProvince": "Timiș",
+      "Postcode": "300626",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 45.768749,
+      "Longitude": 21.220924,
+      "ContactTelephone1": null,
+      "ContactTelephone2": null,
+      "ContactEmail": null,
+      "AccessComments": "Token operated charger. Business hours only",
+      "RelatedURL": "http://autoklass.ro",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": null,
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T13:31:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T13:31:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116679,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      },
+      {
+        "ID": 116680,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 16,
+        "Voltage": 230,
+        "PowerKW": 3.6,
+        "CurrentTypeID": 10,
+        "CurrentType": {
+          "Description": "Alternating Current - Single Phase",
+          "ID": 10,
+          "Title": "AC (Single-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": null,
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81668,
+    "UUID": "F10E5292-1808-4D98-8D8B-F69E3D7E3E78",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 82014,
+      "Title": "Oregon Park",
+      "AddressLine1": "Soseaua Pipera, 44",
+      "AddressLine2": null,
+      "Town": "Bucuresti",
+      "StateOrProvince": null,
+      "Postcode": null,
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 44.4812644259283,
+      "Longitude": 26.1076882413086,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, please register at office@e-charge.ro for a RFID card\r\n",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 2,
+    "GeneralComments": "Renovatio e-charge 2x 22kW type2 (socket)",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:24:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T09:31:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116426,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 2,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9398,
+        "ChargePointID": 81668,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81668/OCM-81668.orig.2017020309314296.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81668/OCM-81668.thmb.2017020309314296.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T09:32:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81667,
+    "UUID": "1CD5841B-DB77-46EE-8DBA-53E0AF3EEC85",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 82013,
+      "Title": "Kaufland",
+      "AddressLine1": "Bulevardul Republicii, 138",
+      "AddressLine2": null,
+      "Town": "Ploiesti",
+      "StateOrProvince": null,
+      "Postcode": "100072",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 44.9559088815052,
+      "Longitude": 25.9926149452511,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, please register at office@e-charge.ro for a RFID card\r\n",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 3,
+    "GeneralComments": "Renovatio e-charge 50kW CCS/CHAdeMO; 43kW AC Type 2 (cable) Tesla fast charge possible with CHAdeMO adapter",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:24:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T09:27:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116423,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      },
+      {
+        "ID": 116424,
+        "ConnectionTypeID": 2,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": null,
+          "IsObsolete": null,
+          "ID": 2,
+          "Title": "CHAdeMO"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 3,
+        "Level": {
+          "Comments": "40KW and Higher",
+          "IsFastChargeCapable": true,
+          "ID": 3,
+          "Title": "Level 3:  High (Over 40kW)"
+        },
+        "Amps": 120,
+        "Voltage": 500,
+        "PowerKW": 50.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      },
+      {
+        "ID": 116425,
+        "ConnectionTypeID": 33,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 33,
+          "Title": "CCS (Type 2 Version of Combined Coupler)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 3,
+        "Level": {
+          "Comments": "40KW and Higher",
+          "IsFastChargeCapable": true,
+          "ID": 3,
+          "Title": "Level 3:  High (Over 40kW)"
+        },
+        "Amps": 120,
+        "Voltage": 500,
+        "PowerKW": 50.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9397,
+        "ChargePointID": 81667,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81667/OCM-81667.orig.2017020309281036.png",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81667/OCM-81667.thmb.2017020309281036.png",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T09:28:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81666,
+    "UUID": "4D8E242E-1E4A-4562-9731-1CE02E5EEC71",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 82012,
+      "Title": "Swan Office",
+      "AddressLine1": "Soseaua Bucuresti Nord, 15-23",
+      "AddressLine2": null,
+      "Town": "Voluntari",
+      "StateOrProvince": "Ilfov",
+      "Postcode": null,
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 44.4893836960691,
+      "Longitude": 26.1262893608268,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, please register at office@e-charge.ro for a RFID card\r\n",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": "Renovatio e-charge 22kW Type 2 (socket)",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:25:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T09:24:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116422,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9396,
+        "ChargePointID": 81666,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81666/OCM-81666.orig.2017020309242755.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81666/OCM-81666.thmb.2017020309242755.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T09:25:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81662,
+    "UUID": "B43121F3-60C9-49B4-8272-8BDB72AF2708",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 82008,
+      "Title": "Kaufland",
+      "AddressLine1": "Strada Barbu Vacarescu, 120-144",
+      "AddressLine2": null,
+      "Town": "Bucuresti",
+      "StateOrProvince": null,
+      "Postcode": "020284",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 44.4639907141275,
+      "Longitude": 26.1092948845085,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, please register at office@e-charge.ro for a RFID card\r\n",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": "Renovatio e-charge 20kW CCS/CHAdeMO; 22kW AC Type 2 (cable); 22kW AC Type 2 (socket); Tesla fast charge possible with CHAdeMO adapter\r\n",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:26:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T09:20:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116410,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 2,
+        "Comments": null
+      },
+      {
+        "ID": 116411,
+        "ConnectionTypeID": 2,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": null,
+          "IsObsolete": null,
+          "ID": 2,
+          "Title": "CHAdeMO"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 50,
+        "Voltage": 500,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      },
+      {
+        "ID": 116412,
+        "ConnectionTypeID": 33,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 33,
+          "Title": "CCS (Type 2 Version of Combined Coupler)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 50,
+        "Voltage": 500,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": null,
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81663,
+    "UUID": "BEE80CE7-E7AA-4CC8-999A-B38E12C50122",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 82009,
+      "Title": "Kaufland",
+      "AddressLine1": "Strada Barbu Vacarescu, 120-144",
+      "AddressLine2": null,
+      "Town": "Bucuresti",
+      "StateOrProvince": null,
+      "Postcode": "020284",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 44.4639907141275,
+      "Longitude": 26.1092948845085,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, please register at office@e-charge.ro for a RFID card\r\n",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": "Renovatio e-charge 20kW CCS/CHAdeMO; 22kW AC Type 2 (cable); 22kW AC Type 2 (socket); Tesla fast charge possible with CHAdeMO adapter\r\n",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:27:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T09:20:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116413,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 2,
+        "Comments": null
+      },
+      {
+        "ID": 116414,
+        "ConnectionTypeID": 2,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": null,
+          "IsObsolete": null,
+          "ID": 2,
+          "Title": "CHAdeMO"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 50,
+        "Voltage": 500,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      },
+      {
+        "ID": 116415,
+        "ConnectionTypeID": 33,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 33,
+          "Title": "CCS (Type 2 Version of Combined Coupler)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 50,
+        "Voltage": 500,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": null,
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81664,
+    "UUID": "514DDB90-CB54-4FF2-A197-2EE5C68A842D",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 82010,
+      "Title": "Kaufland",
+      "AddressLine1": "Strada Barbu Vacarescu, 120-144",
+      "AddressLine2": null,
+      "Town": "Bucuresti",
+      "StateOrProvince": null,
+      "Postcode": "020284",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 44.4639907141275,
+      "Longitude": 26.1092948845085,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, please register at office@e-charge.ro for a RFID card\r\n",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 4,
+    "GeneralComments": "Renovatio e-charge 20kW CCS/CHAdeMO; 22kW AC Type 2 (cable); 22kW AC Type 2 (socket); Tesla fast charge possible with CHAdeMO adapter\r\n",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:30:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T09:20:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116416,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 2,
+        "Comments": null
+      },
+      {
+        "ID": 116417,
+        "ConnectionTypeID": 2,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": null,
+          "IsObsolete": null,
+          "ID": 2,
+          "Title": "CHAdeMO"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 50,
+        "Voltage": 500,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      },
+      {
+        "ID": 116418,
+        "ConnectionTypeID": 33,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 33,
+          "Title": "CCS (Type 2 Version of Combined Coupler)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 50,
+        "Voltage": 500,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9395,
+        "ChargePointID": 81664,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81664/OCM-81664.orig.2017020309205706.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81664/OCM-81664.thmb.2017020309205706.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T09:21:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81665,
+    "UUID": "EB749A11-3DDB-48BB-90F1-619322F8A2EA",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 82011,
+      "Title": "Kaufland",
+      "AddressLine1": "Strada Barbu Vacarescu, 120-144",
+      "AddressLine2": null,
+      "Town": "Bucuresti",
+      "StateOrProvince": null,
+      "Postcode": "020284",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 44.4639907141275,
+      "Longitude": 26.1092948845085,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, please register at office@e-charge.ro for a RFID card\r\n",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": "Renovatio e-charge 20kW CCS/CHAdeMO; 22kW AC Type 2 (cable); 22kW AC Type 2 (socket); Tesla fast charge possible with CHAdeMO adapter\r\n",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:28:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T09:20:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116419,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 2,
+        "Comments": null
+      },
+      {
+        "ID": 116420,
+        "ConnectionTypeID": 2,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": null,
+          "IsObsolete": null,
+          "ID": 2,
+          "Title": "CHAdeMO"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 50,
+        "Voltage": 500,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      },
+      {
+        "ID": 116421,
+        "ConnectionTypeID": 33,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 33,
+          "Title": "CCS (Type 2 Version of Combined Coupler)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 50,
+        "Voltage": 500,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": null,
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81640,
+    "UUID": "372AA3FA-6315-4DF8-B14E-A1EC991C4DE6",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 81986,
+      "Title": "Kaufland",
+      "AddressLine1": "Calea Aurel Vlaicu, 139",
+      "AddressLine2": null,
+      "Town": "Arad",
+      "StateOrProvince": null,
+      "Postcode": "310403",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 46.1962566159628,
+      "Longitude": 21.298035898967,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, request card at office@e-charge.ro or Kaufland Infodesk\r\n",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": "Renovatio e-charge 22kW Type 2 (socket)",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:31:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T09:11:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116388,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9394,
+        "ChargePointID": 81640,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81640/OCM-81640.orig.2017020309121597.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81640/OCM-81640.thmb.2017020309121597.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T09:12:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81610,
+    "UUID": "F35754C8-962C-4D36-842D-4B3E3A3D7349",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 81956,
+      "Title": "Kaufland",
+      "AddressLine1": "Strada Fabricii, 5",
+      "AddressLine2": null,
+      "Town": "Cluj-Napoca",
+      "StateOrProvince": null,
+      "Postcode": "400000",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 46.7816978862008,
+      "Longitude": 23.6139079034463,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, request card at office@e-charge.ro or Kaufland Infodesk\r\n",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": "Renovatio e-charge 22kW Type 2 (socket)",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:32:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T09:06:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116358,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9393,
+        "ChargePointID": 81610,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81610/OCM-81610.orig.2017020309065306.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81610/OCM-81610.thmb.2017020309065306.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T09:07:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81609,
+    "UUID": "44F7F5EB-B16C-4F99-83B2-AE80E800EB93",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 81955,
+      "Title": "Kaufland",
+      "AddressLine1": "Strada Damaschin Bojinca, 2-4",
+      "AddressLine2": null,
+      "Town": "Timisoara",
+      "StateOrProvince": null,
+      "Postcode": "300216",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 45.7390875878501,
+      "Longitude": 21.2119435483711,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, please register at office@e-charge.ro for a RFID card\r\n",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 3,
+    "GeneralComments": "Renovatio e-charge 50kW CCS/CHAdeMO; 22kW AC Type 2 (socket) Tesla fast charge possible with CHAdeMO adapter",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-04-21T19:35:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T09:04:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116355,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      },
+      {
+        "ID": 116356,
+        "ConnectionTypeID": 2,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": null,
+          "IsObsolete": null,
+          "ID": 2,
+          "Title": "CHAdeMO"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 3,
+        "Level": {
+          "Comments": "40KW and Higher",
+          "IsFastChargeCapable": true,
+          "ID": 3,
+          "Title": "Level 3:  High (Over 40kW)"
+        },
+        "Amps": 120,
+        "Voltage": 500,
+        "PowerKW": 50.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      },
+      {
+        "ID": 116357,
+        "ConnectionTypeID": 33,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 33,
+          "Title": "CCS (Type 2 Version of Combined Coupler)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 3,
+        "Level": {
+          "Comments": "40KW and Higher",
+          "IsFastChargeCapable": true,
+          "ID": 3,
+          "Title": "Level 3:  High (Over 40kW)"
+        },
+        "Amps": 120,
+        "Voltage": 500,
+        "PowerKW": 50.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9392,
+        "ChargePointID": 81609,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/GB/OCM81609/OCM-81609.orig.2017020309040121.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/GB/OCM81609/OCM-81609.thmb.2017020309040121.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T09:04:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81608,
+    "UUID": "95C55B93-8536-4CD5-A592-13ABDFB59780",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 81954,
+      "Title": "Kaufland",
+      "AddressLine1": "Strada 1 Decembrie 1918 nr. 21",
+      "AddressLine2": null,
+      "Town": "Constanta",
+      "StateOrProvince": null,
+      "Postcode": "900162",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 44.1727931349585,
+      "Longitude": 28.6361160124767,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, request card at office@e-charge.ro or Kaufland Infodesk\r\n",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": "Renovatio e-charge 22kW Type 2 (socket)",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:33:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T08:59:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116354,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9391,
+        "ChargePointID": 81608,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81608/OCM-81608.orig.2017020308595391.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81608/OCM-81608.thmb.2017020308595391.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T09:00:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81607,
+    "UUID": "38DE223B-4B01-49EF-B8AA-D3B8038B67B4",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 81953,
+      "Title": "Kaufland",
+      "AddressLine1": "Calea Zarandului 67",
+      "AddressLine2": null,
+      "Town": "Deva",
+      "StateOrProvince": null,
+      "Postcode": "330092",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 45.8739693375885,
+      "Longitude": 22.9194002563255,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, request card at office@e-charge.ro or Kaufland Infodesk\r\n",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": "Renovatio e-charge 22kW Type 2 (socket)",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:34:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T08:53:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116353,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9390,
+        "ChargePointID": 81607,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81607/OCM-81607.orig.2017020308545457.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81607/OCM-81607.thmb.2017020308545457.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T08:55:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81606,
+    "UUID": "8EF9B9CF-E098-4012-8CD3-DA17814C7721",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 81952,
+      "Title": "Kaufland",
+      "AddressLine1": "Strada Exercitiu 216",
+      "AddressLine2": null,
+      "Town": "Pitesti",
+      "StateOrProvince": null,
+      "Postcode": "110210",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 44.8421855554646,
+      "Longitude": 24.879629604113,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, request card at office@e-charge.ro or Kaufland Infodesk\r\n",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": "Renovatio e-charge 22kW Type 2 (socket)",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:34:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T08:49:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116352,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9389,
+        "ChargePointID": 81606,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81606/OCM-81606.orig.2017020308494679.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81606/OCM-81606.thmb.2017020308494679.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T08:50:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81605,
+    "UUID": "05BE2AF5-B17B-4171-9AE6-FC7682E89BC0",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 81951,
+      "Title": "Kaufland",
+      "AddressLine1": "Strada I. P. Pavlov 14",
+      "AddressLine2": null,
+      "Town": "Iasi",
+      "StateOrProvince": null,
+      "Postcode": "700010",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 47.1607169931767,
+      "Longitude": 27.5755378535446,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, request card at office@e-charge.ro or Kaufland Infodesk",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": "Renovatio e-charge 22kW Type 2 (socket)",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:35:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T08:43:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116351,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9388,
+        "ChargePointID": 81605,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81605/OCM-81605.orig.2017020308454655.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81605/OCM-81605.thmb.2017020308454655.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T08:46:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81604,
+    "UUID": "5C8FDDFC-341E-476F-8887-EB8C5CA90F92",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 81950,
+      "Title": "Ana Hotels - Sport, Poiana Brasov",
+      "AddressLine1": "Strada Valea Draga",
+      "AddressLine2": null,
+      "Town": "Poiana Brasov",
+      "StateOrProvince": null,
+      "Postcode": "500001",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 45.5925784023791,
+      "Longitude": 25.557629608976,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, request card at office@e-charge.ro or at Hotel Reception\r\n",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": "Renovatio e-charge 22kW Type 2 (socket)",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:35:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T08:30:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116350,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9387,
+        "ChargePointID": 81604,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81604/OCM-81604.orig.2017020308301557.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81604/OCM-81604.thmb.2017020308301557.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T08:30:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81602,
+    "UUID": "11644A72-209E-4592-BD47-DD405AF5292E",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 81948,
+      "Title": "Kaufland",
+      "AddressLine1": "Strada Industriilor 2",
+      "AddressLine2": null,
+      "Town": "Sebes",
+      "StateOrProvince": null,
+      "Postcode": "515800",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 45.9611212962817,
+      "Longitude": 23.5513715227708,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, request card at office@e-charge.ro or Kaufland Infodesk",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": "Renovatio e-charge 22kW Type 2 (socket)",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-06-25T19:59:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T08:25:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": [
+      {
+        "ID": 16224,
+        "ChargePointID": 81602,
+        "CommentTypeID": 50,
+        "CommentType": {
+          "ID": 50,
+          "Title": "Important Notice (For Other Users)"
+        },
+        "UserName": "haraldt1",
+        "Comment": "Only 16A",
+        "Rating": 3,
+        "RelatedURL": null,
+        "DateCreated": "2017-04-17T19:42:56.503Z",
+        "User": {
+          "ID": 13978,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "haraldt1",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 1,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/95c7ef6f18049ec9f64095f942323469?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "CheckinStatusTypeID": 10,
+        "CheckinStatusType": {
+          "IsPositive": true,
+          "IsAutomatedCheckin": false,
+          "ID": 10,
+          "Title": "Charged Successfully"
+        }
+      }
+    ],
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116348,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9386,
+        "ChargePointID": 81602,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81602/OCM-81602.orig.2017020308255220.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81602/OCM-81602.thmb.2017020308255220.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T08:26:00Z"
+      },
+      {
+        "ID": 12892,
+        "ChargePointID": 81602,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81602/OCM-81602.orig.2017062519590529.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81602/OCM-81602.thmb.2017062519590529.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 15720,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Szabó Attila (Kátli)",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 15,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/d6afcfc33f4f699efa89f4af4e2fc05b?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-06-25T19:59:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81601,
+    "UUID": "68325B5A-8327-4239-BA80-AD187947FE8C",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 81947,
+      "Title": "Kaufland",
+      "AddressLine1": "Strada Barajului 32-34",
+      "AddressLine2": null,
+      "Town": "Ramnicu Valcea",
+      "StateOrProvince": null,
+      "Postcode": "240266",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 45.1213173626915,
+      "Longitude": 24.3697872865775,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, request card at office@e-charge.ro or Kaufland Infodesk\r\n",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": "Renovatio e-charge 22kW type2 (socket)",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:37:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T08:21:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116347,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9385,
+        "ChargePointID": 81601,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81601/OCM-81601.orig.2017020308211199.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81601/OCM-81601.thmb.2017020308211199.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T08:21:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81600,
+    "UUID": "40DCE496-3E99-4983-929D-7887B038D803",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 81946,
+      "Title": "Mall Cosmopolis",
+      "AddressLine1": "Strada Soarelui, Stefanestii de Jos, Cosmopolis",
+      "AddressLine2": null,
+      "Town": "Bucuresti",
+      "StateOrProvince": null,
+      "Postcode": null,
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 44.5374274686489,
+      "Longitude": 26.1712405017074,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, Renovatio e-charge RFID required, request card at office@e-charge.ro",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 2,
+    "GeneralComments": "Renovatio e-charge 2x 22kW Type2 (socket) ",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:38:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T08:17:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116346,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 2,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9384,
+        "ChargePointID": 81600,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81600/OCM-81600.orig.2017020308173641.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81600/OCM-81600.thmb.2017020308173641.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T08:18:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81599,
+    "UUID": "86347019-538E-492B-9900-36AFD5A8E289",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 81945,
+      "Title": "Crowne Plaza",
+      "AddressLine1": "Bulevardul Poligrafiei 1",
+      "AddressLine2": null,
+      "Town": "Bucuresti",
+      "StateOrProvince": "Bucuresti",
+      "Postcode": "013704",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 44.4801831746014,
+      "Longitude": 26.0645019939598,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Paid parking, Charger free to use. Renovatio e-charge RFID required",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 2,
+    "GeneralComments": "Renovatio e-charge 2x 22kW Type2 (socket)\r\n",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:38:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T08:11:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116344,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      },
+      {
+        "ID": 116345,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9383,
+        "ChargePointID": 81599,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81599/OCM-81599.orig.2017020308111547.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81599/OCM-81599.thmb.2017020308111547.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T08:11:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81598,
+    "UUID": "BBF038A5-A8A0-4B18-8CD7-39AE3861D653",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 81944,
+      "Title": "Kaufland",
+      "AddressLine1": "Soseaua Alba Iulia 40",
+      "AddressLine2": null,
+      "Town": "Sibiu",
+      "StateOrProvince": "Sibiu",
+      "Postcode": null,
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 45.7937259783286,
+      "Longitude": 24.1334964576985,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Free to use, request card at office@e-charge.ro or Kaufland Infodesk",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 4,
+    "GeneralComments": "Renovatio e-charge 50kW CCS/CHAdeMO; 22kW AC Type 2 (socket) Tesla fast charge possible with CHAdeMO adapter",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:39:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T08:05:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116341,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 2,
+        "Comments": null
+      },
+      {
+        "ID": 116342,
+        "ConnectionTypeID": 2,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": null,
+          "IsObsolete": null,
+          "ID": 2,
+          "Title": "CHAdeMO"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 3,
+        "Level": {
+          "Comments": "40KW and Higher",
+          "IsFastChargeCapable": true,
+          "ID": 3,
+          "Title": "Level 3:  High (Over 40kW)"
+        },
+        "Amps": 120,
+        "Voltage": 500,
+        "PowerKW": 50.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      },
+      {
+        "ID": 116343,
+        "ConnectionTypeID": 33,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 33,
+          "Title": "CCS (Type 2 Version of Combined Coupler)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 3,
+        "Level": {
+          "Comments": "40KW and Higher",
+          "IsFastChargeCapable": true,
+          "ID": 3,
+          "Title": "Level 3:  High (Over 40kW)"
+        },
+        "Amps": 120,
+        "Voltage": 500,
+        "PowerKW": 50.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9382,
+        "ChargePointID": 81598,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81598/OCM-81598.orig.2017020308052024.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81598/OCM-81598.thmb.2017020308052024.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T08:06:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 81597,
+    "UUID": "3BA7DB7A-61D9-4F9A-8DFE-46551904AFAD",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 3271,
+    "OperatorInfo": {
+      "WebsiteURL": "http://e-charge.ro/",
+      "Comments": "Renovatio E-Charge",
+      "PhonePrimaryContact": "+40 372 756 599",
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": "office@e-charge.ro",
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": false,
+      "ID": 3271,
+      "Title": "e-Charge (Romania)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 81943,
+      "Title": "Promenada Mall",
+      "AddressLine1": "Calea Floreasca 246B",
+      "AddressLine2": null,
+      "Town": "Bucuresti",
+      "StateOrProvince": "Bucuresti",
+      "Postcode": null,
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 44.4781909404773,
+      "Longitude": 26.103262596434,
+      "ContactTelephone1": "40372756599",
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-charge.ro",
+      "AccessComments": "Paid parking, Charger free to use. To register, follow instructions.",
+      "RelatedURL": "http://e-charge.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 2,
+    "GeneralComments": "Renovatio e-charge Underground parking, level -3, blue area (N6-N7) 2x 22kW Type2 (socket)",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T12:29:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-02-03T07:54:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 116340,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 2,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 9381,
+        "ChargePointID": 81597,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81597/OCM-81597.orig.2017020307545632.jpg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM81597/OCM-81597.thmb.2017020307545632.jpg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 12297,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Renovatio",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 42,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": "https://www.gravatar.com/avatar/32f828f01831b76a8bda1b6ea7ca7e73?s=80&d=mm",
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2017-02-03T07:55:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 75089,
+    "UUID": "87E54584-2E76-4C34-9EF0-C86E7EE57F1D",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 45,
+    "OperatorInfo": {
+      "WebsiteURL": null,
+      "Comments": "For use when the operator of the equipment is a single business owner connected to the location and equipment is not part of a larger network",
+      "PhonePrimaryContact": null,
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": null,
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": null,
+      "ID": 45,
+      "Title": "(Business Owner at Location)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 1,
+    "UsageType": {
+      "IsPayAtLocation": null,
+      "IsMembershipRequired": null,
+      "IsAccessKeyRequired": null,
+      "ID": 1,
+      "Title": "Public"
+    },
+    "UsageCost": "0",
+    "AddressInfo": {
+      "ID": 75435,
+      "Title": "Lidl - Strada Fervenția",
+      "AddressLine1": "Strada Fervenția",
+      "AddressLine2": null,
+      "Town": "Dumbrăvița",
+      "StateOrProvince": "Timiș",
+      "Postcode": "307160",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 45.7916966174937,
+      "Longitude": 21.2386066903046,
+      "ContactTelephone1": null,
+      "ContactTelephone2": null,
+      "ContactEmail": null,
+      "AccessComments": null,
+      "RelatedURL": null,
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 2,
+    "GeneralComments": null,
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2016-12-11T22:01:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2016-12-11T18:14:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 108344,
+        "ConnectionTypeID": 2,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": null,
+          "IsObsolete": null,
+          "ID": 2,
+          "Title": "CHAdeMO"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 3,
+        "Level": {
+          "Comments": "40KW and Higher",
+          "IsFastChargeCapable": true,
+          "ID": 3,
+          "Title": "Level 3:  High (Over 40kW)"
+        },
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      },
+      {
+        "ID": 108345,
+        "ConnectionTypeID": 1036,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 1036,
+          "Title": "Mennekes (Type 2, Tethered Connector) "
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 3,
+        "Level": {
+          "Comments": "40KW and Higher",
+          "IsFastChargeCapable": true,
+          "ID": 3,
+          "Title": "Level 3:  High (Over 40kW)"
+        },
+        "Amps": 63,
+        "Voltage": 400,
+        "PowerKW": 43.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      },
+      {
+        "ID": 108346,
+        "ConnectionTypeID": 33,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 33,
+          "Title": "CCS (Type 2 Version of Combined Coupler)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 3,
+        "Level": {
+          "Comments": "40KW and Higher",
+          "IsFastChargeCapable": true,
+          "ID": 3,
+          "Title": "Level 3:  High (Over 40kW)"
+        },
+        "Amps": 125,
+        "Voltage": 400,
+        "PowerKW": 50.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": null,
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 72599,
+    "UUID": "02662A04-3324-4253-A289-5D361F8AF8A6",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 45,
+    "OperatorInfo": {
+      "WebsiteURL": null,
+      "Comments": "For use when the operator of the equipment is a single business owner connected to the location and equipment is not part of a larger network",
+      "PhonePrimaryContact": null,
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": null,
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": null,
+      "ID": 45,
+      "Title": "(Business Owner at Location)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 4,
+    "UsageType": {
+      "IsPayAtLocation": false,
+      "IsMembershipRequired": true,
+      "IsAccessKeyRequired": true,
+      "ID": 4,
+      "Title": "Public - Membership Required"
+    },
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 72945,
+      "Title": "Kaufland Hypermarket Parking",
+      "AddressLine1": "Strada Damaschin Bojinca, 2-4, Timișoara",
+      "AddressLine2": null,
+      "Town": "Timisoara",
+      "StateOrProvince": "Timis",
+      "Postcode": null,
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 45.7394352868247,
+      "Longitude": 21.2128183924515,
+      "ContactTelephone1": null,
+      "ContactTelephone2": null,
+      "ContactEmail": null,
+      "AccessComments": null,
+      "RelatedURL": null,
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 2,
+    "GeneralComments": "Renovatio e-charge 50kW CCS/CHAdeMO; 22kW AC Type 2 (socket) Tesla fast charge possible with CHAdeMO adapter",
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2016-10-26T18:13:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2016-10-26T14:45:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 104069,
+        "ConnectionTypeID": 2,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": null,
+          "IsObsolete": null,
+          "ID": 2,
+          "Title": "CHAdeMO"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 3,
+        "Level": {
+          "Comments": "40KW and Higher",
+          "IsFastChargeCapable": true,
+          "ID": 3,
+          "Title": "Level 3:  High (Over 40kW)"
+        },
+        "Amps": null,
+        "Voltage": null,
+        "PowerKW": 50.0,
+        "CurrentTypeID": 30,
+        "CurrentType": {
+          "Description": "Direct Current",
+          "ID": 30,
+          "Title": "DC"
+        },
+        "Quantity": 1,
+        "Comments": null
+      },
+      {
+        "ID": 104071,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": null,
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 68622,
+    "UUID": "21BB42E2-D4C1-40B8-985E-EC992863DBE0",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 45,
+    "OperatorInfo": {
+      "WebsiteURL": null,
+      "Comments": "For use when the operator of the equipment is a single business owner connected to the location and equipment is not part of a larger network",
+      "PhonePrimaryContact": null,
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": false,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": null,
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": null,
+      "ID": 45,
+      "Title": "(Business Owner at Location)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 1,
+    "UsageType": {
+      "IsPayAtLocation": null,
+      "IsMembershipRequired": null,
+      "IsAccessKeyRequired": null,
+      "ID": 1,
+      "Title": "Public"
+    },
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 68968,
+      "Title": "Gas Station Pollux",
+      "AddressLine1": "Movila Banului 6 , sat Cioranca",
+      "AddressLine2": null,
+      "Town": "Cioranca",
+      "StateOrProvince": "Buzau",
+      "Postcode": null,
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 44.9830440136975,
+      "Longitude": 26.7148447036743,
+      "ContactTelephone1": "0040722562451",
+      "ContactTelephone2": null,
+      "ContactEmail": "neagu9@gmail.com",
+      "AccessComments": "In Pollux Cioranca Gas Station",
+      "RelatedURL": "http://pollux.com.ro/Cioranca.html",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": null,
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2017-02-03T13:17:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2016-06-12T19:33:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 96223,
+        "ConnectionTypeID": 1036,
+        "ConnectionType": {
+          "FormalName": null,
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 1036,
+          "Title": "Mennekes (Type 2, Tethered Connector) "
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 230,
+        "PowerKW": 7.0,
+        "CurrentTypeID": 10,
+        "CurrentType": {
+          "Description": "Alternating Current - Single Phase",
+          "ID": 10,
+          "Title": "AC (Single-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": null,
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  },
+  {
+    "ID": 59145,
+    "UUID": "64BBE885-A10C-49DE-A77E-85722F45058B",
+    "ParentChargePointID": null,
+    "DataProviderID": 1,
+    "DataProvider": {
+      "WebsiteURL": "http://openchargemap.org",
+      "Comments": null,
+      "DataProviderStatusType": {
+        "IsProviderEnabled": true,
+        "ID": 1,
+        "Title": "Manual Data Entry"
+      },
+      "IsRestrictedEdit": false,
+      "IsOpenDataLicensed": true,
+      "IsApprovedImport": true,
+      "License": "Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "DateLastImported": null,
+      "ID": 1,
+      "Title": "Open Charge Map Contributors"
+    },
+    "DataProvidersReference": null,
+    "OperatorID": 1,
+    "OperatorInfo": {
+      "WebsiteURL": null,
+      "Comments": null,
+      "PhonePrimaryContact": null,
+      "PhoneSecondaryContact": null,
+      "IsPrivateIndividual": null,
+      "AddressInfo": null,
+      "BookingURL": null,
+      "ContactEmail": null,
+      "FaultReportEmail": null,
+      "IsRestrictedEdit": null,
+      "ID": 1,
+      "Title": "(Unknown Operator)"
+    },
+    "OperatorsReference": null,
+    "UsageTypeID": 1,
+    "UsageType": {
+      "IsPayAtLocation": null,
+      "IsMembershipRequired": null,
+      "IsAccessKeyRequired": null,
+      "ID": 1,
+      "Title": "Public"
+    },
+    "UsageCost": "free",
+    "AddressInfo": {
+      "ID": 59491,
+      "Title": "Mega Image Băneasa",
+      "AddressLine1": "Șoseaua București-Ploiești 85-87",
+      "AddressLine2": "Băneasa",
+      "Town": "Bucharest",
+      "StateOrProvince": null,
+      "Postcode": "013696",
+      "CountryID": 184,
+      "Country": {
+        "ISOCode": "RO",
+        "ContinentCode": "EU",
+        "ID": 184,
+        "Title": "Romania"
+      },
+      "Latitude": 44.5054247924775,
+      "Longitude": 26.0806419176522,
+      "ContactTelephone1": null,
+      "ContactTelephone2": null,
+      "ContactEmail": "office@e-mobility.ro",
+      "AccessComments": null,
+      "RelatedURL": "http://www.e-mobility.ro/",
+      "Distance": null,
+      "DistanceUnit": 0
+    },
+    "NumberOfPoints": 1,
+    "GeneralComments": null,
+    "DatePlanned": null,
+    "DateLastConfirmed": null,
+    "StatusTypeID": 50,
+    "StatusType": {
+      "IsOperational": true,
+      "IsUserSelectable": true,
+      "ID": 50,
+      "Title": "Operational"
+    },
+    "DateLastStatusUpdate": "2016-01-08T19:40:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2016-01-08T13:12:00Z",
+    "SubmissionStatusTypeID": 200,
+    "SubmissionStatus": {
+      "IsLive": true,
+      "ID": 200,
+      "Title": "Submission Published"
+    },
+    "UserComments": null,
+    "PercentageSimilarity": null,
+    "Connections": [
+      {
+        "ID": 75070,
+        "ConnectionTypeID": 25,
+        "ConnectionType": {
+          "FormalName": "IEC 62196-2 Type 2",
+          "IsDiscontinued": false,
+          "IsObsolete": false,
+          "ID": 25,
+          "Title": "Mennekes (Type 2)"
+        },
+        "Reference": null,
+        "StatusTypeID": 50,
+        "StatusType": {
+          "IsOperational": true,
+          "IsUserSelectable": true,
+          "ID": 50,
+          "Title": "Operational"
+        },
+        "LevelID": 2,
+        "Level": {
+          "Comments": "Over 2 kW, usually non-domestic socket type",
+          "IsFastChargeCapable": false,
+          "ID": 2,
+          "Title": "Level 2 : Medium (Over 2kW)"
+        },
+        "Amps": 32,
+        "Voltage": 380,
+        "PowerKW": 22.0,
+        "CurrentTypeID": 20,
+        "CurrentType": {
+          "Description": "Alternating Current - Three Phase",
+          "ID": 20,
+          "Title": "AC (Three-Phase)"
+        },
+        "Quantity": 1,
+        "Comments": null
+      }
+    ],
+    "MediaItems": [
+      {
+        "ID": 4747,
+        "ChargePointID": 59145,
+        "ItemURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM59145/OCM-59145.orig.2016010813152604.jpeg",
+        "ItemThumbnailURL": "https://s3-ap-southeast-2.amazonaws.com/openchargemap/images/RO/OCM59145/OCM-59145.thmb.2016010813152604.jpeg",
+        "Comment": "",
+        "IsEnabled": true,
+        "IsVideo": false,
+        "IsFeaturedItem": false,
+        "IsExternalResource": false,
+        "MetadataValue": null,
+        "User": {
+          "ID": 6812,
+          "IdentityProvider": null,
+          "Identifier": null,
+          "CurrentSessionToken": null,
+          "Username": "Daniel Vlad",
+          "Profile": null,
+          "Location": null,
+          "WebsiteURL": null,
+          "ReputationPoints": 1,
+          "Permissions": null,
+          "PermissionsRequested": null,
+          "DateCreated": null,
+          "DateLastLogin": null,
+          "IsProfilePublic": null,
+          "IsEmergencyChargingProvider": null,
+          "IsPublicChargingProvider": null,
+          "Latitude": null,
+          "Longitude": null,
+          "EmailAddress": null,
+          "EmailHash": null,
+          "ProfileImageURL": null,
+          "IsCurrentSessionTokenValid": null,
+          "APIKey": null,
+          "SyncedSettings": null
+        },
+        "DateCreated": "2016-01-08T13:16:00Z"
+      }
+    ],
+    "MetadataValues": null,
+    "IsRecentlyVerified": false,
+    "DateLastVerified": null
+  }
+]

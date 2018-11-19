@@ -1,0 +1,221 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Aleea Peleșului 2, Sinaia 106100, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.3599816,
+               "lng" : 25.5426423
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.36120737989273,
+                  "lng" : 25.5434348
+               },
+               "southwest" : {
+                  "lat" : 45.35850772010728,
+                  "lng" : 25.54026479999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "de905efe9612a50d61bf7601e548c7e385ac7dd2",
+         "name" : "Castelul Peleș",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1856,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114972124404240193871/photos\"\u003eCarlos Ortega Elduque\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6gRciNnOkVTm3T7lEMiwHlEXv11WkgrPXj6b_0DAjwTy_uADN555VTEB5uNMkAV6KDM8R_AjKTnlw6Y41SDzh5O05wTQqbb425m1Ieg6pG9jHfAMeEhgUPnyz9Pu37l3EhB-Cf2cMcHD7Kwfh4XyVEMwGhT9rvLYwSDzDXvO4_0tHfIvezxVoQ",
+               "width" : 3040
+            }
+         ],
+         "place_id" : "ChIJbVXg0uwWs0ARrdXzlKVjbpo",
+         "plus_code" : {
+            "compound_code" : "9G5V+X3 Sinaia, România",
+            "global_code" : "8GQ79G5V+X3"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJbVXg0uwWs0ARrdXzlKVjbpo",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Strada Cireșilor 19, Cluj-Napoca 400487, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.7578808,
+               "lng" : 23.5865529
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.75884687989272,
+                  "lng" : 23.58814297989272
+               },
+               "southwest" : {
+                  "lat" : 46.75614722010727,
+                  "lng" : 23.58544332010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b0d4766ba1939e97f526b703e3fa26d41317db7e",
+         "name" : "Observatorul Astronomic",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101320191653061042515/photos\"\u003eDan Moldovan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANYFhy1XZ6J4yqPvSJ6Vafp_tV7H9VH4bOTcFAeeNfeOVdam7dye4eSJUMH6YW4uDSN4lPeS7nltgGfQ5FYs8QjHaE2xf8N6XqISUDg452-IC9Xpf-dGIgvmac9gLdX-MEhA1yEWqkJUOAk00AEhGunHTGhSyOl9jMePvs-jKTd-oaMNoihvRmw",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJlxDqvdQNSUcRQu1DrcobBi4",
+         "plus_code" : {
+            "compound_code" : "QH5P+5J Cluj-Napoca, România",
+            "global_code" : "8GR5QH5P+5J"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJlxDqvdQNSUcRQu1DrcobBi4",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Sighișoara 545400, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.2197679,
+               "lng" : 24.7919709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.22111772989273,
+                  "lng" : 24.79332072989272
+               },
+               "southwest" : {
+                  "lat" : 46.21841807010728,
+                  "lng" : 24.79062107010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "df40f2a68879b79cbcda1f75f4bae5721782888e",
+         "name" : "Cetatea Sighișoara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115233305161329282441/photos\"\u003eAngel Gomez\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARJYgU4s-3Gvij9cjf85Q854IToelMI8P2OY8FswgsKAommGnMVAR-FzFR1LJ5IctFtIdPeTmh3_UGMJYMo1PUkorwoWroBB5uLwSh1j5rdPaL6YSv57iSflW_SnipoyqEhAo0NaajfQ4ilxhUVyBOpe2GhSq9trxrNN1bBE0AZel-GrlYL5lOg",
+               "width" : 4928
+            }
+         ],
+         "place_id" : "ChIJ0ZFEJMZ1S0cR-cElgdeyFwk",
+         "plus_code" : {
+            "compound_code" : "6Q9R+WQ Sighișoara, România",
+            "global_code" : "8GR66Q9R+WQ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ0ZFEJMZ1S0cR-cElgdeyFwk",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Piața Mică 1, Sibiu 550182, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.7976183,
+               "lng" : 24.1521486
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.79901047989272,
+                  "lng" : 24.15343387989272
+               },
+               "southwest" : {
+                  "lat" : 45.79631082010728,
+                  "lng" : 24.15073422010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "acc1d7b796a995597e2a6b2bd047dc072bc352c5",
+         "name" : "Turnul Sfatului",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2716,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112254947325610758686/photos\"\u003eMichael Evans\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdgjr4sunW0cfpJNvhuSrHIIb_kNY3Y3idW78k-t4rD6PpIgNRyqOk8kAmG2WCeCwMiFJs3-HcbBSEJOAsCV6jhje4ANYcwYlLvq74BZdUrgPojVI68WXcBd63JNvptFKEhBm-YDwvohICSSsrEF7o1bHGhT0_xT6EWdOOql1JKFbW_ZfvmSQ-w",
+               "width" : 3799
+            }
+         ],
+         "place_id" : "ChIJc1xCwpZnTEcRBJxuuIQkgco",
+         "plus_code" : {
+            "compound_code" : "Q5X2+2V Sibiu, România",
+            "global_code" : "8GQ6Q5X2+2V"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJc1xCwpZnTEcRBJxuuIQkgco",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Strada General Traian Moșoiu 24, Bran 507025, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.51490219999999,
+               "lng" : 25.3671637
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.51677842989272,
+                  "lng" : 25.37126469999999
+               },
+               "southwest" : {
+                  "lat" : 45.51407877010728,
+                  "lng" : 25.3657967
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "51e05b384e57946a72243b76022c654c20d603cd",
+         "name" : "Castelul Bran",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114292930192955599447/photos\"\u003eBran Castle\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGDf1s_-80j2frqHO8Dr3w7RFzFoLuiL47EcX-SP_CBfCwQDlOcAzQFlHOa19YEehELOCN06UBSGdIzGTVhKlQi0xnrnlV4EX08IIkvOtDkY76PnRiSY_n9RuTp7V6rJuEhBPs60idqT6Tnv-IVi27RImGhT_rW9MH7xfMJk-HKX3urrO8h1iCQ",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJMd4VpOVHs0ARf6sh2ZInks8",
+         "plus_code" : {
+            "compound_code" : "G978+XV Bran, România",
+            "global_code" : "8GQ7G978+XV"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJMd4VpOVHs0ARf6sh2ZInks8",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

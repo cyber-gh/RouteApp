@@ -1,0 +1,125 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Strada Petöfi Sándor 15, București 011405, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.46041220000001,
+               "lng" : 26.0783216
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.46177477989273,
+                  "lng" : 26.07972942989272
+               },
+               "southwest" : {
+                  "lat" : 44.45907512010728,
+                  "lng" : 26.07702977010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3fa4e03a4d3825fe4731548c59e11c2bbda81aa8",
+         "name" : "Visit-Romania",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJe27DZxsCskARCYWCccRMsCE",
+         "plus_code" : {
+            "compound_code" : "F36H+58 București, România",
+            "global_code" : "8GP8F36H+58"
+         },
+         "rating" : 5,
+         "reference" : "ChIJe27DZxsCskARCYWCccRMsCE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Strada Căderea Bastiliei 56, București, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.450572,
+               "lng" : 26.095957
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.45192407989272,
+                  "lng" : 26.09730922989272
+               },
+               "southwest" : {
+                  "lat" : 44.44922442010727,
+                  "lng" : 26.09460957010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "212cc38dcc2ca2c1034f876e579693929fae77e6",
+         "name" : "Covinnus Travel",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1068,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106139315672924147224/photos\"\u003eCovinnus Travel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0q8SG2JuMCA4E-DmkHjaJW3AEEp_SH--DSW6ZpvdD13xr_--f1mJlrYpxS-1kfMDQxAcSfrX8lXka7oZ5Pwjxjzvefmy0A8unE7DdEJbgnpQl-z4jXcyCyznLTjkMXxsEhCt1DIbuvj2gGObpF7Xw0hHGhR3VP_moOSB7D3m-mYHN2QT7Q5yVA",
+               "width" : 1900
+            }
+         ],
+         "place_id" : "ChIJuWggS1P_sUAR1PackIrmrIQ",
+         "plus_code" : {
+            "compound_code" : "F32W+69 București, România",
+            "global_code" : "8GP8F32W+69"
+         },
+         "rating" : 5,
+         "reference" : "ChIJuWggS1P_sUAR1PackIrmrIQ",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Bloc M5, Bulevardul Theodor Pallady 18, București 032263, România",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4108388,
+               "lng" : 26.1711717
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.41228152989272,
+                  "lng" : 26.17256607989272
+               },
+               "southwest" : {
+                  "lat" : 44.40958187010728,
+                  "lng" : 26.16986642010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3181936f0ce027277d507a1eb74d94f848545d3b",
+         "name" : "Romania Tour Store",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103531462045661721188/photos\"\u003eRomania Tour Store\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJLbHc9Lg-YiUwl57VYEMIxhh-S1LEWSQzp3_fqxIExJIcyC0NfAqRy4IbVT91mshBUdIGDkzQVOLt_91Xq2_ul_Asz3kIIqo-D6AjqO7dMKJV2W1KYHBSqc7CbqXJiXYEhAQ2Xxa1z46F8Ejg4qDjn3zGhR9yzkvRnl1gv9oqHC80M10K72u2g",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJvyQFRp_-sUARxhAn5QIdJKA",
+         "plus_code" : {
+            "compound_code" : "C56C+8F București, România",
+            "global_code" : "8GP8C56C+8F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJvyQFRp_-sUARxhAn5QIdJKA",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
